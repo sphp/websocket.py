@@ -68,7 +68,7 @@ while True:
             "id": 4,
             "method": "Runtime.evaluate",
             "params": {
-                "expression": "document.querySelector('input[type=email]').value='aticitem@gmail.com'",
+                "expression": "document.querySelector('input[type=email]').value='USERNAME'",
                 "returnByValue": True
             }
         }
@@ -89,7 +89,7 @@ while True:
             "id": 6,
             "method": "Runtime.evaluate",
             "params": {
-                "expression": "document.querySelector('input[type=password]').value='j3j3@tysdh#$sdR#$'",
+                "expression": "document.querySelector('input[type=password]').value='PASSWORD'",
                 "returnByValue": True
             }
         }
